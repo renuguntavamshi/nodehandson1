@@ -1,0 +1,7 @@
+[
+    {
+      "What is Nodejs": "Nodejs is js framework,used to run js outside the browser,It also has lots of package/library present in it use",
+      "Why nodejs?": "Node.js eliminates the waiting, and simply continues with the next request.      Node.js runs single-threaded, non-blocking, asynchronous programming, which is very memory efficient."
+    }
+   
+  ]
